@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Alok Maurya
 
-<!--
-**alokmaurya561-dev/alokmaurya561-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**  
+💡 Passionate about learning, building skills, and exploring technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📘 Currently pursuing **Engineering**
+- 🛠 Interested in understanding core engineering concepts and practical applications
+- 🌱 Always eager to learn new technologies and improve my skills
+- 🎯 Career-focused and growth-oriented
+
+---
+
+## 🧠 Skills & Interests
+- Engineering Fundamentals  
+- Problem Solving  
+- Technical Learning  
+- Basic Programming   
+  
+
+---
+
